@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michael-peets
 - 👀 I’m interested in data, AI, solving problems, investment strategies, financial calculators, gardening, cooking, cycling, and backpacking on established trails
-- 🌱 I’m currently learning how to code in python and how to use AI agents to speed delivery of data strategy
+- 🌱 I’m currently learning how to code in python
 - 💞️ I’m looking to collaborate on data catalogue content generation and automated discovery of customer patterns and segments
 
 <!---
